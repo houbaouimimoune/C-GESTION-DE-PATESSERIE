@@ -1,0 +1,62 @@
+Situation de la patisserie en  Wed May 18 19:20:19 2022
+	-->Client Num 1  a achete 2 baguettes + 0 croissants + 0 millefeuilles + 1 tartes.
+	-->Total en DH = 82.40
+Fin !
+
+Situation de la patisserie en  Wed May 18 19:22:43 2022
+	-->Pas d'acitité' !!!
+	-->Total en DH = 0.00
+Fin !
+
+	-->Client Num 1  a achete 1 baguettes + 0 croissants + 0 millefeuilles + 0 tartes.
+	-->Client Num 2  a achete 3 baguettes + 0 croissants + 0 millefeuilles + 2 tartes.
+	-->Total en DH = 164.80
+Fin !
+
+	-->Client Num 1  a achete 1 baguettes + 0 croissants + 0 millefeuilles + 0 tartes.
+	-->Total en DH = 1.20
+Fin !
+
+	-->Client Num 1  a achete 0 baguettes + 5 croissants + 0 millefeuilles + 0 tartes.
+	-->Client Num 2  a achete 20 baguettes + 0 croissants + 0 millefeuilles + 0 tartes.
+	-->Total en DH = 38.00
+Fin !
+
+	-->Client Num 1  a achete 0 baguettes + 5 croissants + 0 millefeuilles + 0 tartes.
+	-->Total en DH = 14.00
+Fin !
+
+	-->Client Num 1  a achete 2 baguettes + 0 croissants + 0 millefeuilles + 0 tartes.
+	-->Client Num 2  a achete 0 baguettes + 2 croissants + 0 millefeuilles + 0 tartes.
+	-->Client Num 3  a achete 0 baguettes + 0 croissants + 0 millefeuilles + 2 tartes.
+	-->Total en DH = 166.40
+Fin !
+
+	-->Client Num 2  a achete 2 baguettes + 0 croissants + 2 millefeuilles + 0 tartes.
+	-->Total en DH = 6.40
+Fin !
+
+	-->Client Num 2  a achete 2 baguettes + 0 croissants + 2 millefeuilles + 0 tartes.
+	-->Total en DH = 6.40
+Fin !
+
+	-->Client Num 1  a achete 0 baguettes + 5 croissants + 0 millefeuilles + 0 tartes.
+	-->Total en DH = 10.00
+Fin !
+
+	-->Pas de client !!!
+	-->Total en DH = 0.00
+Fin !
+
+	-->Client Num 1  a achete 2 baguettes + 4 croissants + 1 millefeuilles + 0 tartes.
+	-->Total en DH = 12.40
+Fin !
+
+	-->Client Num 1  a achete 4 baguettes + 0 croissants + 15 millefeuilles + 4 tartes.
+	-->Total en DH = 354.80
+Fin !
+
+	-->Client Num 1  a achete 3 baguettes + 0 croissants + 0 millefeuilles + 5 tartes.
+	-->Total en DH = 403.60
+Fin !
+
